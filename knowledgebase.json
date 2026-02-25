@@ -1,0 +1,11 @@
+{
+  "GreetingIntent": "Hi! I’m the Student Services chatbot. I can help you with programs, registration, and support services.",
+
+  "ProgramInfoIntent": "We offer diploma and degree programs in IT, Business, and Healthcare. Ask if you'd like more details about a specific program.",
+
+  "RegistrationHelpIntent": "You can register through the student portal under the Registration section. Make sure to complete payment before the deadline.",
+
+  "SupportServicesIntent": "We provide academic advising, counseling services, mental health support, and career guidance for all students.",
+
+  "FallbackIntent": "I’m not sure about that yet. Try asking about programs, registration, or support services."
+}
